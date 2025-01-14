@@ -5,6 +5,7 @@ export const data = [
   { id: 4, name: "anna" },
   { id: 5, name: "khalid" },
   { id: 6, name: "mohamed" },
+  { id: 7, name: "ahmed" },
 ];
 
 export const people = [
