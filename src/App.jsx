@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="container">
       <CountExample />
+      <CountExample />
       <Challenge />
    
     </div>
