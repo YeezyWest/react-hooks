@@ -6,8 +6,7 @@ function App() {
     <div className="container">
       <CountExample />
       <CountExample />
-      <CountExample />
-      <CountExample />
+    
    
     </div>
   );
